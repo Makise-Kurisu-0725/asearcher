@@ -1,0 +1,54 @@
+{
+    "Freon-12 density at 1100 atm and 1-2°C": [
+        {
+            "title": "Thermodynamic Properties of DuPont(tm) Freon(R) 12 (R-12 ...",
+            "url": "https://www.sjsu.edu/people/nicole.okamoto/courses/me_115/R-12%20Table.pdf",
+            "snippet": "Tables of the thermodynamic properties of DuPontTM Freon® 12 (R-12) have been developed and are presented here."
+        },
+        {
+            "title": "Dichlorodifluoromethane - NIST Chemistry WebBook",
+            "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C75718&Mask=1F",
+            "snippet": "Michels, A.; Wassenaar, T.; Wolkers, G.J.; Prins, Chr.; van de Klundert, L., P-v-t data and thermodynamical properties of freon-12 (ccl (2)f (2)) and freon-13 (cclf (3)) fluorocarbons at temperatures between 0 and 150c and at pressures up to 400 atm, J. Chem. Eng. Data, 1966, 11, 449. [all data]"
+        },
+        {
+            "title": "R-12 Dichlorodifluoromethane - Properties - The Engineering ...",
+            "url": "https://www.engineeringtoolbox.com/dichlorodifluoromethane-R-12-d_972.html",
+            "snippet": "Properties of saturated liquid Dichlorodifluoromethane R-12 - CCl2F2 - density, specific heat capacity, kinematic viscosity, thermal conductivity and Prandtl number."
+        },
+        {
+            "title": "P-V-T- Data and Thermodynamical Properties of Freon-12 (CCl",
+            "url": "https://pubs.acs.org/doi/10.1021/je60031a001",
+            "snippet": "P-V-T- Data and Thermodynamical Properties of Freon-12 (CCl2F2) and Freon-13 (CClF3) Fluorocarbons at Temperatures Between 0° and 150° C. and at Pressures Up to 400 Atm."
+        },
+        {
+            "title": "Density of Freon 12 in 285 units and reference information",
+            "url": "https://www.aqua-calc.com/page/density-table/substance/freon-blank-12",
+            "snippet": "Freon 12 weighs 1.35 gram per cubic centimeter or 1 350 kilogram per cubic meter, i.e. density of freon 12 is equal to 1 350 kg/m³; at 15°C (59°F or 288.15K) at standard atmospheric pressure. In Imperial or US customary measurement system, the density is equal to 84.278 pound per cubic foot [lb/ft³], or 0.7803 ounce per cubic inch [oz/inch³] ."
+        },
+        {
+            "title": "Refrigerant 12 (R-12) (Freon 12) SI - DuPont Freon ...",
+            "url": "https://www.studocu.com/ph/document/president-ramon-magsaysay-state-university/bs-mechanical-engg/refrigerant-12-r-12-freon-12-si/30446592",
+            "snippet": "Tables of the thermodynamic properties of DuPont# Freon® 12 (R-12) have been developed and are presented here."
+        },
+        {
+            "title": "REFRIGERANTS Thermodynamic Properties of DuPont ...",
+            "url": "https://www.academia.edu/42273122/REFRIGERANTS_Thermodynamic_Properties_of_DuPont_Freon_12_R_12_Refrigerant",
+            "snippet": "These properties are essential for understanding the behavior of R-12 in refrigeration applications. The paper reports a critical temperature of 111.97°C and a critical pressure of 4136 kPa for DuPont™ Freon® 12."
+        },
+        {
+            "title": "R12 - F-Chart",
+            "url": "https://www.fchart.com/ees/eeshelp/r12.htm",
+            "snippet": "Surface tension data are from Liley and Desai, \"Thermophysical Properties of Refrigerants\", ASHRAE, 1993, ISBN 1-1883413-10-9. The range of valid for the surface tension data is -100 C < T < 110 C."
+        },
+        {
+            "title": "Table 1: Freon 12 Saturation Properties - Temperature Table",
+            "url": "https://www.scribd.com/document/411580841/R-12",
+            "snippet": "The document provides a table of saturation properties for Freon 12 including temperature, pressure, volume, density, enthalpy, entropy and other values over a temperature range from -100 to -44 degrees Celsius."
+        },
+        {
+            "title": "NRI-RefRefGuideINT-2020.pdf - Refrigerants",
+            "url": "https://refrigerants.com/wp-content/uploads/2020/03/R12_RefGuid.pdf",
+            "snippet": "R-12 Composition: 100% dichlorodifluoromethane (CCl2F2) Application: Large centrifugal chillers, open drive AC, process cooling, high-medium-low temperature refrigeration (large and small systems) Performance: Industry standard choice until 1990’s Lubricant: Compatible with mineral oil"
+        }
+    ]
+}
